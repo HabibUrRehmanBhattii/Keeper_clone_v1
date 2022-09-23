@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Keeper React App
+This is a simple React app that  create a simple note taking app. It uses the following technologies:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app is deployed on github pages and can be accessed [here](https://habiburrehmanbhattii.github.io/Keeper_clone_v1/)
 
-## Available Scripts
+## Installation
+- Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copyin the url
+- In your terminal, type ```git clone URL```
+  - replace URL with the url you copied
+  - hit enter
+- This will copy all the files from this repo down to your computer
+- In your terminal, cd into the directory you just created
+- Type ```npm install``` to install all dependencies
+- Last, but not least, type ```npm start``` to run the app locally.
 
-In the project directory, you can run:
+- To look at the code, just open up the project in your favorite code editor!
 
-### `npm start`
+## How to run the app
+- Clone the repo
+- Run `npm install` to install all the dependencies
+- Run `npm start` to start the app
+- The app will be running on `localhost:3000`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to build the app
+- Run `npm run build` to build the app
+- The build folder will be created in the root directory
+- The app can be deployed on any static hosting service like github pages, netlify, etc.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Languages and Tools
+- JavaScript (ES6)
+- HTML  
+- CSS 
+- React 
+- React
+- React Router
+- React Hooks
+- React Context
+- React Portal
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Description
+This app is a simple note taking app. It allows you to create, edit, and delete notes. It also allows you to search for notes. It uses React Context to manage the state of the app. It uses React Portal to render the modal for editing notes. It uses React Router to handle routing. It uses React Hooks to manage the state of the app. It uses React to render the app.
