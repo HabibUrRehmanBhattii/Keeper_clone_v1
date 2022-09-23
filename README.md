@@ -1,5 +1,4 @@
 # Keeper React App
-<<<<<<< HEAD
 This is a simple React app that  create a simple note taking app. It uses the following technologies:
 
 The app is deployed on github pages and can be accessed [here](https://habiburrehmanbhattii.github.io/Keeper_clone_v1/)
